@@ -1,0 +1,239 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "title": "Black Coffee",
+      "des": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 8,
+      "img": "/images/menu-1.jpg",
+      "type": "hot",
+      "score": 4,
+      "off": 0
+    },
+    {
+      "id": "2",
+      "title": "Black Coffee",
+      "des": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 8,
+      "img": "/images/menu-1.jpg",
+      "type": "hot",
+      "score": 4.5,
+      "off": 0
+    },
+    {
+      "id": "3",
+      "title": "Chocolete Coffee",
+      "des": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 8,
+      "img": "/images/menu-2.jpg",
+      "type": "hot",
+      "score": 2.5,
+      "off": 0
+    },
+    {
+      "id": "4",
+      "title": "Chocolete Coffee",
+      "des": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 8,
+      "img": "/images/menu-2.jpg",
+      "type": "cold",
+      "score": 3,
+      "off": 0
+    },
+    {
+      "id": "5",
+      "title": "Coffee With Milk",
+      "des": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 8,
+      "img": "/images/menu-3.jpg",
+      "type": "cold",
+      "score": 4,
+      "off": 50
+    },
+    {
+      "id": "6",
+      "title": "Coffee With Milk",
+      "des": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 8,
+      "img": "/images/menu-3.jpg",
+      "type": "cold",
+      "score": 5,
+      "off": 30
+    }
+  ],
+  "newsLetters": [
+    {
+      "id": "1",
+      "email": "maryam@gmail.com"
+    },
+    {
+      "id": "2",
+      "email": "test@example.com"
+    },
+    {
+      "id": "3",
+      "email": "masy@gmail.com"
+    },
+    {
+      "id": "4",
+      "email": "moj@gmail.com"
+    },
+    {
+      "id": "5",
+      "email": "moj@gmail.com"
+    },
+    {
+      "id": "6",
+      "email": "moj@gmail.com"
+    },
+    {
+      "id": "b20b",
+      "email": "bahare@gmail.com"
+    }
+  ],
+  "icons": [
+    {
+      "id": "1",
+      "img": "/images/github.png",
+      "link": "#"
+    },
+    {
+      "id": "2",
+      "img": "/images/linkdin.png",
+      "link": "#"
+    },
+    {
+      "id": "3",
+      "img": "/images/telegram.png",
+      "link": "#"
+    },
+    {
+      "id": "4",
+      "img": "/images/whatsapp.png",
+      "link": "#"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Fastest Door Delivery",
+      "img": "/images/service-1.jpg",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est invidunt, dolore tempor diam ipsum takima erat tempor",
+      "icon": "faTruck"
+    },
+    {
+      "id": "2",
+      "title": "Fresh Coffee Beans",
+      "img": "/images/service-2.jpg",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est invidunt, dolore tempor diam ipsum takima erat tempor",
+      "icon": "faCoffee"
+    },
+    {
+      "id": "3",
+      "title": "Best Quality Coffee",
+      "img": "/images/service-3.jpg",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est invidunt, dolore tempor diam ipsum takima erat tempor",
+      "icon": "faAward"
+    },
+    {
+      "id": "4",
+      "title": "Online Table Booking",
+      "img": "/images/service-4.jpg",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est invidunt, dolore tempor diam ipsum takima erat tempor",
+      "icon": "faTable"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "name": "Client Name",
+      "productId": 1,
+      "img": "/images/testimonial-1.jpg",
+      "body": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor"
+    },
+    {
+      "id": "2",
+      "name": "Client Name",
+      "productId": 2,
+      "img": "/images/testimonial-2.jpg",
+      "body": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor"
+    },
+    {
+      "id": "3",
+      "name": "Client Name",
+      "productId": 2,
+      "img": "/images/testimonial-3.jpg",
+      "body": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor"
+    },
+    {
+      "id": "4",
+      "name": "Client Name",
+      "productId": 2,
+      "img": "/images/testimonial-4.jpg",
+      "body": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor"
+    },
+    {
+      "id": "5",
+      "name": "Client Name",
+      "productId": 4,
+      "img": "/images/testimonial-3.jpg",
+      "body": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor"
+    },
+    {
+      "id": "6",
+      "name": "Client Name",
+      "productId": 4,
+      "img": "/images/testimonial-3.jpg",
+      "body": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor"
+    }
+  ],
+  "reserv": [
+    {
+      "id": "1",
+      "name": "Client Name",
+      "email": "test@example.com",
+      "date": "1403/01/10",
+      "time": "5:15",
+      "person": "4"
+    },
+    {
+      "id": "1fe3",
+      "name": "maryam",
+      "email": "maryam@gmail.com",
+      "date": "1403/02/03",
+      "time": "18:30",
+      "person": "4"
+    },
+    {
+      "id": "01d3",
+      "name": "masy",
+      "email": "masy@gmail.com",
+      "date": "1403/11/16",
+      "time": "15:10",
+      "person": "2"
+    }
+  ],
+  "message": [
+    {
+      "id": "1",
+      "name": "bahare",
+      "email": "bahare@gmail.com",
+      "subject": "test",
+      "body": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor"
+    },
+    {
+      "id": "21cc",
+      "name": "maryam",
+      "email": "maryam@gmail.com",
+      "subject": "goodtest",
+      "body": "you are wonderfull"
+    },
+    {
+      "id": "0228",
+      "name": "moj",
+      "email": "moj@gmail.com",
+      "subject": "test3",
+      "body": "good"
+    }
+  ]
+}
